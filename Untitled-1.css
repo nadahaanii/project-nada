@@ -1,0 +1,18 @@
+table{
+    padding: 5px;
+    border: 10px solid ;
+    border-color: #837f7c #272727 #272727 #837f7c;
+}
+td {
+
+border: 4px solid #0fef9a ;
+margin: 30px;
+}
+th{
+    background-color: #009afe;
+    padding : 5px 50px ;
+    margin-right: 20px;
+}
+.table{
+    padding: 0px;
+}
